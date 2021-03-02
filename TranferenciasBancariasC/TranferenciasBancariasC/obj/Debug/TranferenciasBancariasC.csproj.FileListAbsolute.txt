@@ -1,0 +1,7 @@
+C:\Users\estel\Desktop\Nova pasta (2)\ProjetoTransferenciasBancarias\TranferenciasBancariasC\TranferenciasBancariasC\bin\Debug\TranferenciasBancariasC.exe.config
+C:\Users\estel\Desktop\Nova pasta (2)\ProjetoTransferenciasBancarias\TranferenciasBancariasC\TranferenciasBancariasC\bin\Debug\TranferenciasBancariasC.exe
+C:\Users\estel\Desktop\Nova pasta (2)\ProjetoTransferenciasBancarias\TranferenciasBancariasC\TranferenciasBancariasC\bin\Debug\TranferenciasBancariasC.pdb
+C:\Users\estel\Desktop\Nova pasta (2)\ProjetoTransferenciasBancarias\TranferenciasBancariasC\TranferenciasBancariasC\obj\Debug\TranferenciasBancariasC.csprojAssemblyReference.cache
+C:\Users\estel\Desktop\Nova pasta (2)\ProjetoTransferenciasBancarias\TranferenciasBancariasC\TranferenciasBancariasC\obj\Debug\TranferenciasBancariasC.csproj.CoreCompileInputs.cache
+C:\Users\estel\Desktop\Nova pasta (2)\ProjetoTransferenciasBancarias\TranferenciasBancariasC\TranferenciasBancariasC\obj\Debug\TranferenciasBancariasC.exe
+C:\Users\estel\Desktop\Nova pasta (2)\ProjetoTransferenciasBancarias\TranferenciasBancariasC\TranferenciasBancariasC\obj\Debug\TranferenciasBancariasC.pdb
